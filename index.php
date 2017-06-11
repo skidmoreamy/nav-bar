@@ -31,12 +31,11 @@
 		<!--Google Fonts-->
 		<link href="https://fonts.googleapis.com/css?family=Architects+Daughter|Fredericka+the+Great|Merriweather|Nunito:800" rel="stylesheet">
 		<!--custom css-->
-		<link rel="stylesheet" href="public_html/css/css.css" type="text/css">
+		<link rel="stylesheet" href="../nav-bar/css/css-style.css" type="text/css">
 	<body class="sfooter">
 		<div class="sfooter-content">
 
 			<!-- insert header and navbar -->
-			<?php require_once("../lib/index.php");?>
 
 			<main class="bg p-t-nav">
 				<div class="container">
