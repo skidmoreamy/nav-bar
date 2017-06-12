@@ -27,8 +27,6 @@
 					</li>
 					<li>
 						<a class="page-scroll" href="sign-out.php" style="color: #0d05fa">Sign-Out</a>
-					</li>
-					<a href="#logo" class="navbar-left"><img src="css/images/petrescue3-icon-20px-xs.gif"></a>
 				</ul>
 			</div>
 		</div>
