@@ -2,15 +2,14 @@
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container">
 			<div class="navbar-header page-scroll">
-				<button type="button" class="navbar-toggle" data-toggle="collapse"
-						  data-target=".navbar-ex1-collapse">
-					<span class="sr-only">Toggle navigation</span>
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+					<span class="sr-only"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="#page-top" class="navbar-brand page-scroll">
-					<div class="name"><span>PetFosterABQ</span>
+				<a href="title" class="navbar-brand page-scroll">
+					<div class="navbar-left"><span>PetFosterABQ</span>
 					</div>
 				</a>
 			</div>
@@ -28,6 +27,7 @@
 					<li>
 						<a class="page-scroll" href="sign-out.php" style="color: #0d05fa">Sign-Out</a>
 					</li>
+					<a href="#logo" class="navbar-left"><img src="css/images/petrescue3-icon-20px-xs.gif"></a>
 				</ul>
 			</div>
 		</div>
