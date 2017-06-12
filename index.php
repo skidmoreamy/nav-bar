@@ -8,8 +8,9 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="title" class="navbar-brand page-scroll">
+				<a href="#title" class="navbar-brand page-scroll">
 					<div class="navbar-left"><span>PetFosterABQ</span>
+						<a href="#logo" class="navbar-left"><img src="css/images/petrescue3-icon-20px-xs.gif"></a>
 					</div>
 				</a>
 			</div>
